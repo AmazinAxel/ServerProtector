@@ -1,0 +1,15 @@
+name: ServerProtector
+version: '1.0'
+description: A simple plugin for securing Minecraft servers.
+author: AmazinAxel
+website: https://amazinaxel.com
+main: com.amazinaxel.serverprotector.ServerProtector
+prefix: 'ServerProtector'
+api-version: '1.19'
+commands:
+  serverprotector:
+    description: "Manages ServerProtector features."
+    usage: /serverprotector
+    permission: ServerProtector.serverprotector
+    permission-message: "You don't have permission to run this command."
+    aliases: [sp, serverprotect]

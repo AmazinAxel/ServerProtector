@@ -1,0 +1,7 @@
+com\amazinaxel\serverprotector\listeners\JoinListener.class
+com\amazinaxel\serverprotector\listeners\CommandSuggestionListener.class
+com\amazinaxel\serverprotector\SPCommand.class
+com\amazinaxel\serverprotector\listeners\OpListener$1.class
+com\amazinaxel\serverprotector\ServerProtector.class
+com\amazinaxel\serverprotector\listeners\CommandListener.class
+com\amazinaxel\serverprotector\listeners\OpListener.class

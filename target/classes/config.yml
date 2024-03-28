@@ -1,0 +1,11 @@
+# This list contains all OP's on the server. Anyone who somehow gains operator privileges
+# whilst not on this list will be kicked & will lose their OP privileges.
+operators:
+  - AmazinAxel
+
+# These are the commands that can be run by anyone without OP. These commands will show up in
+# the tab selector, and commands not within this list will be hidden & unavailable to users.
+commands:
+  - spawn
+  - help
+  - about
